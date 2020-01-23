@@ -1,4 +1,3 @@
-
 def map(array) 
   new_array = []
   array.length.times do |i|
@@ -7,3 +6,7 @@ def map(array)
   new_array
 end
 
+
+def reduce(array)
+  
+  
